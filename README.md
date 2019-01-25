@@ -10,7 +10,7 @@ The **.jar** archive will be installed in the `target` directory of the project.
 Navigate to the location of the directory a run the following command:
 
 ```
-java -jar security-secret-encoder-1.0.0-SNAPSHOT.jar
+java -jar spring-boot-console-sample-0.0.1-SNAPSHOT.jar
 ```
 
 You should see the following output:
